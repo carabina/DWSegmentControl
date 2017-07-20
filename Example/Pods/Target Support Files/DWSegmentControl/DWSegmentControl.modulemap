@@ -1,0 +1,6 @@
+framework module DWSegmentControl {
+  umbrella header "DWSegmentControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

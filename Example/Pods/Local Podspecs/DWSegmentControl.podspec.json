@@ -1,0 +1,30 @@
+{
+  "name": "DWSegmentControl",
+  "version": "0.1.0",
+  "summary": "A short description of DWSegmentControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dwalks12/DWSegmentControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dwalks12": "dawson@freshworks.io"
+  },
+  "source": {
+    "git": "https://github.com/dwalks12/DWSegmentControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DWSegmentControl/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+
+    ],
+    "RxCocoa": [
+
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - DWSegmentControl (0.1.0):
+    - RxCocoa
+    - RxSwift
+  - RxCocoa (3.6.0):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.0)
+
+DEPENDENCIES:
+  - DWSegmentControl (from `../`)
+
+EXTERNAL SOURCES:
+  DWSegmentControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DWSegmentControl: 5a81dd4c0214ab7c19485db189d88743376c92d1
+  RxCocoa: cb865569239ebf1b1434056e5c8859d99dff103a
+  RxSwift: a0925c7fb11fbe60055285f6f2062241aa37a175
+
+PODFILE CHECKSUM: 198f9c4330efc9218026343ed70cb6cda78e51b8
+
+COCOAPODS: 1.2.1
