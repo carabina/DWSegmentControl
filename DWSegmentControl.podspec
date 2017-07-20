@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
   Custom Segment Control, auto adjusting bottom border to text size
-                       DESCD
+                       DESC
 
   s.homepage         = 'https://github.com/dwalks12/DWSegmentControl'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
