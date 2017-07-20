@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  Custom Segment Control, auto adjusting bottom border to text size
                        DESCD
 
   s.homepage         = 'https://github.com/dwalks12/DWSegmentControl'
